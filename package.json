@@ -1,0 +1,13 @@
+{
+  "name": "SPoll",
+  "version": "0.0.1",
+  "description": "Bot permettant de réaliser des sondages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ShAd",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
